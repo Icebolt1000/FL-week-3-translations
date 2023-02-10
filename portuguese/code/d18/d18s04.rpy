@@ -310,7 +310,7 @@ translate portuguese d18s04_c28fd43c:
 translate portuguese d18s04_d11f2731:
 
     # aw "All because you were afraid of a young girl exploring her sexuality."
-    aw "Tudo poque você tinha medo de uma garota jovem explorando sua sexualidade."
+    aw "Tudo porque você tinha medo de uma garota jovem explorando sua sexualidade."
 
 # game/code/d18/d18s04.rpy:264
 translate portuguese d18s04_abfdbdbf:
