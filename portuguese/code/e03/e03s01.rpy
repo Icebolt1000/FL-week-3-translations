@@ -1012,7 +1012,7 @@ translate portuguese e03s01_anim3_fc94398f:
 translate portuguese e03s01_anim4_e71dbcfe:
 
     # sy "Come on. Come on come on come on. I want you both to fuck me at the same time."
-    sy "Bora. Anda, anda, anda. Quero que vocês me comem ao mesmo tempo."
+    sy "Bora. Anda, anda, anda. Quero que vocês me comam ao mesmo tempo."
 
 # game/code/e03/e03s01.rpy:808
 translate portuguese e03s01_anim4_fed09163:
